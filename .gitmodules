@@ -10,3 +10,6 @@
 [submodule "Ckeditor"]
 	path = Plugin/Ckeditor
 	url = git://github.com/croogo/Ckeditor.git
+[submodule "plugin/Divorce"]
+	path = plugin/Divorce
+	url = https://lordg@bitbucket.org/lordg/croogo-divorce-plugin.git
